@@ -127,6 +127,10 @@ mappings, and run history.
 **Slack Alerts** — Fires to a configured channel on every pipeline run with
 a summary and individual alerts for new CRITICAL and HIGH CVEs.
 
+> The AVEN app posting directly to the `#all-aven` Slack channel, confirming the webhook integration is live and alerts are firing successfully.
+
+![Slack Alert](screenshots/slack-alert.png)
+
 ---
 
 ## Project Structure
